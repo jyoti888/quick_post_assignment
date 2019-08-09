@@ -1,0 +1,53 @@
+body{
+	 background-image:url("quick.jpg"); 
+	 font-size: 20px;
+	 display: block;
+	 background-repeat: no-repeat;
+	 background-size: cover; 
+}
+
+.container label{
+	display: block;
+	padding: 10px;
+}
+
+form {
+	width: 45%;
+	margin: 50px auto;
+	text-align: left;
+	padding:20px;
+	border:1px solid black;
+	border-radius: 5px;
+}
+
+.container button{
+    padding: 10px;
+	font-size: 15px;
+	color:white;
+	background: #5F9EA0;
+	border: none;
+	border-radius: 5px;
+}
+.container input[type="text"]{
+	width: 60%;
+	height: 17px;
+
+}
+.container input[type="password"]
+{
+	width: 60%;
+	height: 17px;
+
+}
+.container input[type="date"]
+{
+	width: 25%;
+	height: 17px;
+
+}
+.container input[type="number"]
+{
+	
+	height: 17px;
+
+}

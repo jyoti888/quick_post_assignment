@@ -1,0 +1,7 @@
+body{
+	 background-image:url("quick.jpg"); 
+	 font-size: 20px;
+	 display: block;
+	 background-repeat: no-repeat;
+	 background-size: cover; 
+}
